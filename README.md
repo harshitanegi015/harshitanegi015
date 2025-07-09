@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Harshita! 👋</h1>
 
-🌸 BTech CSE'27 | Python DSA Learner | FAANG Dreamer  
+🌸 BTech CSE'28 | Python DSA Learner | Web Dev Enthuiast 
 📚 Currently Learning: Data Structures & Algorithms  
 🧠 Solving LeetCode problems daily using Python  
 💖 Goals: Master DSA, Build cool projects, Crack top internships  
