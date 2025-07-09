@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Harshita! 👋</h1>
 
-<!--
-**harshitanegi015/harshitanegi015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 BTech CSE'27 | Python DSA Learner | FAANG Dreamer  
+📚 Currently Learning: Data Structures & Algorithms  
+🧠 Solving LeetCode problems daily using Python  
+💖 Goals: Master DSA, Build cool projects, Crack top internships  
 
-Here are some ideas to get you started:
+📌 Connect with me:
+- 🌐 [LinkedIn](https://linkedin.com/in/harshitanegi015)
+- ✨ [LeetCode](https://leetcode.com/harshitanegi015)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Let's grow together in tech! 🚀
