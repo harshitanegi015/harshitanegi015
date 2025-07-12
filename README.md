@@ -31,12 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitanegi&show_icons=true&theme=rose_pine)
-
----
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitanegi015)  
