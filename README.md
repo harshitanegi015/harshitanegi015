@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Harshita 👋</h1>
 <p align="center">
-  BTech CSE Student • Learning Python & Web Development • #100DaysOfCode
+  BTech CSE Student • Learning Python & Web Development
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 🌱 About Me
 
 - 🎓 Second-year BTech student in Computer Science
-- 🐍 Learning Python through the 100 Days of Code course by Angela Yu
+- 🐍 Learning Python
 - 🌐 Exploring full-stack web development
 - 💼 Passionate about problem-solving, logic building, and clean code
 
