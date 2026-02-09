@@ -10,17 +10,9 @@
 - 🎓 Second-year BTech student in Computer Science
 - 🐍 Learning Python
 - 🌐 Exploring full-stack web development
-- 💼 Passionate about problem-solving, logic building, and clean code
+- 💼 Passionate about problem-solving and logic building
 
 ---
-
-### 🔭 Current Projects
-
-- 🚀 `100-days-of-python`: Daily Python projects from Angela Yu's course  
-  → [Check the Repo](https://github.com/harshitanegi/100-days-of-python)
-
----
-
 ### 🛠️ Tech & Tools I Use
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
