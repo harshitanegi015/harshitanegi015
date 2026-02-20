@@ -1,32 +1,50 @@
-<h1 align="center">Hi, I'm Harshita 👋</h1>
 <p align="center">
-  BTech CSE Student • Learning Python & Web Development
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+DSA;Building+Projects;Quietly+Executing;Future+Developer&center=true&width=500&height=45">
+</p>
+---
+<h1 align="center">Hi, I'm Harshita 👋</h1>
+
+<p align="center">
+Somewhere between ideas and execution.<br>
+Quietly executing.
 </p>
 
 ---
 
-### 🌱 About Me
-
-- 🎓 Second-year BTech student in Computer Science
-- 🐍 Learning Python
-- 🌐 Exploring full-stack web development
-- 💼 Passionate about problem-solving and logic building
-
----
-### 🛠️ Tech & Tools I Use
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
+## 🧠 About Me
+- 🎓 B.Tech CSE Student
+- 💻 Learning Data Structures & Algorithms
+- 🐍 Python | SQL | Git | GitHub
+- 🚀 Building projects while figuring things out
+- 🌙 Prefer execution over noise
 
 ---
 
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitanegi015)  
+## ⚒️ What I Do
+- Solve DSA problems regularly
+- Build academic + personal projects
+- Explore backend & databases
+- Document learning publicly
 
 ---
 
-<p align="center">"Building projects, one day at a time." 💡</p>
+## 🛠 Languages & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshitanegi015&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitanegi015&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Philosophy
+> Learning in public.  
+> Building quietly.  
+> Improving daily.
