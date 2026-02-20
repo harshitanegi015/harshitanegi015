@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+DSA;Building+Projects;Quietly+Executing;Future+Developer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+And+Building;Building+Projects;Quietly+Executing;Future+Developer&center=true&width=500&height=45">
 </p>
 ---
 <h1 align="center">Hi, I'm Harshita 👋</h1>
@@ -37,9 +37,9 @@ Quietly executing.
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshitanegi015&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=harshitanegi015&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitanegi015&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitanegi015&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
