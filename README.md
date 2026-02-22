@@ -26,25 +26,5 @@ Quietly executing.
 - Explore backend & databases
 - Document learning publicly
 
----
-
-## 🛠 Languages & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode" />
-</p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshitanegi015&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitanegi015&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ✨ Philosophy
-> Learning in public.  
-> Building quietly.  
-> Improving daily.
